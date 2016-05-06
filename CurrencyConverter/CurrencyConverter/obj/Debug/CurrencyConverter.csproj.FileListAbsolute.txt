@@ -1,0 +1,14 @@
+c:\users\ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+c:\users\ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\MetroFramework.dll
+c:\users\ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\MetroFramework.Fonts.dll
+c:\users\ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+c:\users\ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+c:\users\ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\Ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryan\documents\visual studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Credits.resources
